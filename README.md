@@ -93,3 +93,5 @@ bcrypt
 
 ![Screenshot (132)](https://github.com/Hezekiahpilli/Trade-Copier-System-Pro/assets/40743014/822fda92-0507-4fef-bdf1-79e8fdadbee2)
 
+Seperate the two folder While running
+
