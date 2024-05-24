@@ -45,11 +45,14 @@ css
 * complete the 2FA
 * Add min funds and Create API keys
 * set required Symbols for the API's generated
+
+
 * Link it and start using the Trade Copier
 
 # manually delete API keys on the WebUI 
 
+output:
 
+![116](https://github.com/Hezekiahpilli/Trade-Copier-System-Pro/assets/40743014/0f6359f7-3e73-4f53-9985-e2d8c113f827)
 
-![116](https://github.com/Hezekiahpilli/Trade-Copier-System-Pro/assets/40743014/37a58295-4518-40be-a7a5-a922c1dbd65d)
 ![120](https://github.com/Hezekiahpilli/Trade-Copier-System-Pro/assets/40743014/f501e04f-8abc-4602-b213-f1e862e7ee49)
