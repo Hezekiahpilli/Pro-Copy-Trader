@@ -1,5 +1,7 @@
 **Pro Trade Copier & Stock Prediction System**
 
+**Pro Trade Copier**
+
 Trade Copier Platform Pro for performing high frequency trading by copying trades from master account.
 
 **Installation and Execution** 
@@ -56,3 +58,15 @@ output:
 ![116](https://github.com/Hezekiahpilli/Trade-Copier-System-Pro/assets/40743014/0f6359f7-3e73-4f53-9985-e2d8c113f827)
 
 ![120](https://github.com/Hezekiahpilli/Trade-Copier-System-Pro/assets/40743014/f501e04f-8abc-4602-b213-f1e862e7ee49)
+
+
+
+**Stock Prediction System**
+
+This Predicts the future prices of cryptos Linear regression models from the previous data.
+
+**Installation and Execution**
+1. goto  cd  /Trade-Copier-Pro-and-Crypto-Prediction-system/Prediction/
+2. pip install -r requirements.txt
+3. streamlit run stock.py
+
