@@ -94,4 +94,4 @@ bcrypt
 ![Screenshot (132)](https://github.com/Hezekiahpilli/Trade-Copier-System-Pro/assets/40743014/822fda92-0507-4fef-bdf1-79e8fdadbee2)
 
 Prediction is seperate and and yet to be integrated in future,
-Each Have their own branches
+Each Have their own branches.
