@@ -70,6 +70,16 @@ This Predicts the future prices of cryptos using Linear regression models from t
 2. pip install -r requirements.txt
 3. streamlit run stock.py
 
+**Technologies & Packages**
+
+Python
+streamlit 
+pandas 
+yfinance 
+scikit-learn 
+yahoo_fin
+sqlite3 
+bcrypt
 
 ![Screenshot (127)](https://github.com/Hezekiahpilli/Trade-Copier-System-Pro/assets/40743014/5d3842bc-7657-4a29-9813-18c212796e4c)
 
