@@ -1,4 +1,4 @@
-**Pro Trade Copier System**
+**Pro Trade Copier & Stock Prediction System**
 
 Trade Copier Platform Pro for performing high frequency trading by copying trades from master account.
 
