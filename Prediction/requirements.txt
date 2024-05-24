@@ -1,0 +1,7 @@
+streamlit 
+pandas 
+yfinance 
+scikit-learn 
+yahoo_fin
+sqlite3 
+bcrypt
