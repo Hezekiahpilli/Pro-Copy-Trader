@@ -53,6 +53,4 @@ css
 
 ![116](https://github.com/Hezekiahpilli/Trade-Copier-System-Pro/assets/40743014/37a58295-4518-40be-a7a5-a922c1dbd65d)
 ![120](https://github.com/Hezekiahpilli/Trade-Copier-System-Pro/assets/40743014/f501e04f-8abc-4602-b213-f1e862e7ee49)
-
-![120](https://github.com/Hezekiahpilli/Trade-Copier-System-Pro/assets/40743014/24d0d3a9-0b6c-4a41-a899-86d31590a748)
 ![116](https://github.com/Hezekiahpilli/Trade-Copier-System-Pro/assets/40743014/61eefd52-69de-4d71-b6a3-19e0b33cf131)
