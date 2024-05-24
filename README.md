@@ -66,7 +66,7 @@ output:
 This Predicts the future prices of cryptos using Linear regression models from the previous data.
 
 **Installation and Execution**
-1. goto  cd  /Trade-Copier-Pro-and-Crypto-Prediction-system/Prediction/
+1. goto  cd  /Prediction/
 2. pip install -r requirements.txt
 3. streamlit run stock.py
 
@@ -93,5 +93,5 @@ bcrypt
 
 ![Screenshot (132)](https://github.com/Hezekiahpilli/Trade-Copier-System-Pro/assets/40743014/822fda92-0507-4fef-bdf1-79e8fdadbee2)
 
-Seperate the two folder While running
-
+Prediction is seperate and and yet to be integrated in future,
+Each Have their own branches
