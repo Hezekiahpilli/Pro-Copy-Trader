@@ -52,7 +52,8 @@ css
 * Link it and start using the Trade Copier
 * open the Master account to place trades and it will automatically place trades in child or slave accounts
   
-# manually delete API keys on the WebUI after every restart
+Min funds are requires in accounts to initiate a trade.
+manually delete API keys on the WebUI after every restart.
 
 output:
 
