@@ -1,0 +1,26 @@
+{
+  "master": {
+    "name": "master" ,
+    "key":"Glb7aIcBZ8fURajtvTXL4WQFp8i3SIJRQvTCO58O8rLkbJsEC4a5uGypti3bwIhq" ,
+    "secret" :"5CAa3aoeLIVH4YLYMgI5KFGWLV8wb4THTfyYJEa7U3RQWXjY8UqrFZ4fKR2VX5or",
+    "exchange_name": "BinanceExchange"
+     },
+  "slaves":
+    [{
+      "name": "copier",
+      "key": "pgjMyvvr0H4PeofJHiWf1CTRbavTbtjQ1ujr2gvqzz2twWsUVYG7JSHbu4jJ6Aav",
+      "secret": "c66nxpupam4N4t2sqVMaInefwKSY3JYTt60ZrLEA0bPBF2m08xDFfyUe6PcRridf",
+      "exchange_name": "BinanceExchange"
+      },
+    {
+      "name": "slave2",
+      "key": "5PMEaJhTA0wgzdMjsYaI4CdeBnXZ1a6VWCCcX5Z1HnPGGv8zwSOwUx3AfVv4Kulc",
+      "secret": "6ItwLL2MP8pCi4EzhbzAATXZVtdH2G827H8p93LHA351LPY7uSqs45ojkAbygLQH",
+      "exchange_name": "BinanceExchange"
+
+    }
+    ],
+  "settings": {
+
+  }
+}
